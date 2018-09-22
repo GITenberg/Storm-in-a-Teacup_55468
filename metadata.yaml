@@ -1,5 +1,8 @@
 _repo: Storm-in-a-Teacup_55468
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55468-h/images/cover.jpg
 creator:
   author:
     agent_name: Phillpotts, Eden
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/665
     wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55468#Storm-in-a-Teacup
 gutenberg_issued: '2017-08-31'
 gutenberg_type: Text
 identifiers:
