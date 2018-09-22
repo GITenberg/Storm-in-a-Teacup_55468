@@ -1,0 +1,23 @@
+_repo: Storm-in-a-Teacup_55468
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillpotts, Eden
+    birthdate: 1862
+    deathdate: 1960
+    gutenberg_agent_id: '665'
+    url: http://www.gutenberg.org/2009/agents/665
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
+description: ''
+gutenberg_issued: '2017-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Storm in a Teacup
+url: http://www.gutenberg.org/ebooks/55468
